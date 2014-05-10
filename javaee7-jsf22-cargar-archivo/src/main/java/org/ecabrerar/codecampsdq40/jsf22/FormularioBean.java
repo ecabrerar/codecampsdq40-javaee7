@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package org.ecabrerar.codecampsdq40.fileuploadjsf22;
+package org.ecabrerar.codecampsdq40.jsf22;
 
 import javax.enterprise.context.RequestScoped;
 import javax.inject.Named;

@@ -11,10 +11,9 @@ Para mejor entendiemiento es recomendable conocimientos básicos de Java
 * Netbeans 7.4 ó superior, versión completa o “Java EE”.
 
 ###Descargar e instalar:
-* JDK 7(ó superior):
- > http://www.oracle.com/technetwork/java/javase/downloads/index.html
-* NetBeans 7.4 o superior, versión completa o “Java EE”
- > http://www.oracle.com/technetwork/java/javase/downloads/index.html
+* [JDK 7(ó superior)] (http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+* [NetBeans 7.4 o superior, versión completa o “Java EE”]
+ (http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 
 

@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package org.ecabrerar.codecampsdq40.javaee7.json.demo;
+package org.ecabrerar.codecampsdq40.javaee7.json.creacionobjetos;
 
 import javax.json.Json;
 import javax.json.JsonObject;

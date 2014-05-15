@@ -15,7 +15,7 @@ Para mejor entendiemiento es recomendable conocimientos básicos de Java
 * [NetBeans 7.4 o superior, versión completa o “Java EE”]
  (http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
-
+Clonar el repositorio usando git, abrir cada proyecto con NetBeans, y correr cada ejemplo.
 
 
 

@@ -17,5 +17,8 @@ Para mejor entendiemiento es recomendable conocimientos básicos de Java
 
 Clonar el repositorio usando git, abrir cada proyecto con NetBeans, y correr cada ejemplo.
 
+#### Author
 
+* [Eudris Cabrera](https://github.com/ecabrerar)
+* [![endorse](https://api.coderwall.com/ecabrerar/endorsecount.png)](https://coderwall.com/ecabrerar)
 
